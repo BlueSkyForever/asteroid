@@ -36,6 +36,7 @@ Don't hesitate to [join the slack][slack-invite]
 and ask questions / suggest new features there as well!
 Asteroid is intended to be a __community-based project__
 so hop on and help us!
+## 使用手册：https://asteroid.readthedocs.io/en/v0.3.2/apidoc/asteroid.losses.pmsqe.html
 ## Contents
 - [Contents](#contents)
 - [Installation](#installation)
